@@ -6,7 +6,7 @@ OpenE8 macht es sich zur Aufgabe, den Datenaustausch von Verwaltungsdaten im Bil
 
 + **Ziel 2**: Open Source-Spezifikation von aufeinander aufbauenden Komponenten zur Repräsentation von Entitäten in der Schulverwaltung (z.B. Lehrer:innen, Schüler:innen, Eltern, Organisationen, Schullaufbahn, Ausbildungsdaten, Noten, Abschlüsse, Zeugnisse etc.). Wir nutzen hierzu [JSON](https://www.json.org/) als Repräsentationsformat.
 
-+ **Ziel 3**: Open Source-Spezifikation einer [RESTful-API](https://www.openpotato.org/de/blog/2025/02/25/restful-api-erklaert/) zum Synchronisieren von Daten zwischen zwei oder mehreren Systemen.
++ **Ziel 3**: [OpenAPI](https://spec.openapis.org/oas/latest.html)-Spezifikation einer API zum Synchronisieren von Daten zwischen zwei oder mehreren Systemen.
 
     + Generieren und Einspielen von Snapshots für folgende Anwendungsfälle:
 	
