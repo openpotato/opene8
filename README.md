@@ -4,7 +4,7 @@ OpenE8 has set itself the task of standardising the exchange of administrative d
 
 ## Documentation
 
-The documentation website is part of this repository. We have implemented it using [MkDocs](https://www.mkdocs.org) and [Material for MkDocs](https://squidfunk.github.io/mkdocs-material). It is published under https://openpotato.github.io/opene8/.
+The documentation website is part of this repository. We have implemented it using [Zensical](https://zensical.org/). It is published under https://openpotato.github.io/opene8/.
 
 ## Can I help?
 
