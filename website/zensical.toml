@@ -59,19 +59,19 @@ logo = "assets/logos/logo-light.svg"
 [[project.theme.palette]]
 media = "(prefers-color-scheme)"
 toggle.icon = "lucide/sun-moon"
-toggle.name = "Systemeinstellung verwenden"
+toggle.name = "In den Hellmodus wechseln"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: light)"
 scheme = "default"
 toggle.icon = "lucide/sun"
-toggle.name = "In den Hellmodus wechseln"
+toggle.name = "In den Dunkelmodus wechseln"
 
 [[project.theme.palette]]
 media = "(prefers-color-scheme: dark)"
 scheme = "slate"
 toggle.icon = "lucide/moon"
-toggle.name = "In den Dunkelmodus wechseln"
+toggle.name = "Systemeinstellung verwenden"
 
 [[project.extra.social]]
 icon = "fontawesome/brands/bluesky"
